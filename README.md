@@ -6,10 +6,17 @@ By analyzing various aspects such as video descriptor, view counts, engagement i
 content creators, marketers, and researchers.
 
 Features
+
 Data Collection: Utilizes the YouTube Data API to fetch data on the basis of categpry.
 Data Cleaning: Processes raw data to remove inconsistencies and prepare it for analysis.
 Exploratory Data Analysis (EDA): Investigates trends, patterns, and relationships within the data.
 Visualization: Presents findings through visualizations such as plots and charts.
 
 
-
+Contributor
+We would like to extend our gratitude to the following individual for their valuable contributions to this project:
+Sakib Ali
+Apurva Mulay
+Sumaiya Korabu
+Anuja Sahane
+Asad Alam
